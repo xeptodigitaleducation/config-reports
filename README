@@ -1,0 +1,8 @@
+Xepto Education Reports
+
+This a repository of reports that be used for Moodle's "Configurable Reports" block.
+
+They are broken down into directories using the following convention:
+
+1xx series - reports for sitewide data
+2xx series - reports that identify potential problems

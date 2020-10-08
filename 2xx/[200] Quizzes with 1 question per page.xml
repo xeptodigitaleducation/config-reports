@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2019122000"><visible><![CDATA[1]]></visible>
+<name><![CDATA[[200] Quizzes with 1 question per page]]></name>
+<summary><![CDATA[]]></summary>
+<summaryformat><![CDATA[1]]></summaryformat>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[0]]></pagination>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6Njp7czo4OiJxdWVyeXNxbCI7czo2MTU6IlNFTEVDVCtDT05DQVQlMjglMjclM0NhK2hyZWYlM0QlMjIlMjUlMjVXV1dST09UJTI1JTI1JTJGbW9kJTJGcXVpeiUyRnZpZXcucGhwJTNGaWQlM0QlMjclMkNjbS5pZCUyQyUyNyUyMiUzRSUyNyUyQ2NtLmlkJTJDJTI3JTNDJTJGYSUzRSUyNyUyOStBUyslMjdRVUlaK0lEJTI3JTJDJTBEJTBBKysrKysrK3EubmFtZStBUyslMjdRVUlaK05BTUUlMjclMkMlMEQlMEErKysrKysrYy5zaG9ydG5hbWUrYXMrJTI3Q09VUlNFK0NPREUlMjclMkMlMEQlMEErKysrKysrYy5mdWxsbmFtZSthcyslMjdDT1VSU0UrTkFNRSUyNyUwRCUwQUZST00rcHJlZml4X3F1aXorQVMrcSUyQyUwRCUwQSsrKysrcHJlZml4X2NvdXJzZStBUytjJTJDJTBEJTBBJTA5K3ByZWZpeF9jb3Vyc2VfbW9kdWxlcytBUytjbSUyQyUwRCUwQSUwOStwcmVmaXhfbW9kdWxlcythcyttJTBEJTBBV0hFUkUrcS5jb3Vyc2UrJTNEK2MuaWQlMEQlMEErK0FORCtxLnF1ZXN0aW9uc3BlcnBhZ2UrJTNEKzElMEQlMEErK0FORCtjLmlkKyUzRCtjbS5jb3Vyc2UlMEQlMEErK0FORCtjbS5pbnN0YW5jZSslM0QrcS5pZCUwRCUwQSsrQU5EK2NtLm1vZHVsZSslM0QrbS5pZCUwRCUwQSsrYW5kK20ubmFtZSslM0QrJTI3cXVpeiUyNyI7czo4OiJjb3Vyc2VpZCI7aToxO3M6MTI6InN1Ym1pdGJ1dHRvbiI7czoxMjoiU2F2ZStjaGFuZ2VzIjtzOjE2OiJyZXBvcnRjYXRlZ29yaWVzIjtzOjE6IjAiO3M6MTc6InJlcG9ydHNpbmNhdGVnb3J5IjtzOjE6IjAiO3M6MTQ6InJlbW90ZXF1ZXJ5c3FsIjtzOjA6IiI7fX19]]></components>
+<export><![CDATA[csv,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[0]]></global>
+<lastexecutiontime><![CDATA[2]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+<remote><![CDATA[0]]></remote>
+</report>

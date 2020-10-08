@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2019122000"><visible><![CDATA[1]]></visible>
+<name><![CDATA[[100] Enrollees per course per month]]></name>
+<summary><![CDATA[]]></summary>
+<summaryformat><![CDATA[1]]></summaryformat>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[0]]></pagination>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6Njp7czo4OiJxdWVyeXNxbCI7czo4MDI6IlNFTEVDVCtDT1VOVCUyOCUyQSUyOStBUyslMjdFTlJPTExFRStDT1VOVCUyNyUyQyUwRCUwQSsrKysrK3QxLmVucm9sbWVudF9kYXRlK0FTKyUyN0VOUk9MTE1FTlQrWUVBUi1NT05USCUyNyUyQyUwRCUwQSsrKysrK3QxLnNob3J0bmFtZStBUyslMjdDT1VSU0UrQ09ERSUyNyUyQyUwRCUwQSsrKysrK3QxLmZ1bGxuYW1lK0FTKyUyN0NPVVJTRStOQU1FJTI3JTBEJTBBRlJPTSslMjhTRUxFQ1QrZGF0ZV9mb3JtYXQlMjhmcm9tX3VuaXh0aW1lJTI4dWUudGltZWNyZWF0ZWQlMjklMkMlMjclMjVZLSUyNW0lMjclMjkrQVMrZW5yb2xtZW50X2RhdGUlMkMlMEQlMEErKysrKysrKytjLnNob3J0bmFtZSUyQyUwRCUwQSUwOSsrKysrYy5mdWxsbmFtZSUwRCUwQSsrKysrK0ZST00rcHJlZml4X2NvdXJzZStjJTJDJTBEJTBBKysrKysrKysrKytwcmVmaXhfZW5yb2wrZSUyQyUwRCUwQSUwOSsrKysrKytwcmVmaXhfdXNlcit1JTJDJTBEJTBBJTA5KysrKysrK3ByZWZpeF91c2VyX2Vucm9sbWVudHMrdWUlMEQlMEErKysrKytXSEVSRStjLmlkJTNEZS5jb3Vyc2VpZCUwRCUwQSsrKysrKysrQU5EK3VlLmVucm9saWQlM0RlLmlkJTBEJTBBJTA5KysrK0FORCt1LmlkJTNEdWUudXNlcmlkJTI5K3QxJTBEJTBBR1JPVVArQlkrdDEuZW5yb2xtZW50X2RhdGUlMkMlMEQlMEErKysrKysrKyt0MS5zaG9ydG5hbWUlMkMlMEQlMEElMDkrKysrK3QxLmZ1bGxuYW1lJTBEJTBBT1JERVIrQlkrdDEuZW5yb2xtZW50X2RhdGUlMkMlMEQlMEErKysrKysrKyt0MS5zaG9ydG5hbWUlMkMlMEQlMEElMDklMDkrdDEuZnVsbG5hbWUlMEQlMEEiO3M6ODoiY291cnNlaWQiO2k6MTtzOjEyOiJzdWJtaXRidXR0b24iO3M6MTI6IlNhdmUrY2hhbmdlcyI7czoxNjoicmVwb3J0Y2F0ZWdvcmllcyI7czoxOiIwIjtzOjE3OiJyZXBvcnRzaW5jYXRlZ29yeSI7czoxOiIwIjtzOjE0OiJyZW1vdGVxdWVyeXNxbCI7czowOiIiO319fQ==]]></components>
+<export><![CDATA[csv,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[0]]></global>
+<lastexecutiontime><![CDATA[71]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+<remote><![CDATA[0]]></remote>
+</report>
